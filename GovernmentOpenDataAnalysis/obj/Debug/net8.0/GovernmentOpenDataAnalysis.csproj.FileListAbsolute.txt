@@ -1,0 +1,17 @@
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\GovernmentOpenDataAnalysis.exe
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\GovernmentOpenDataAnalysis.deps.json
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\GovernmentOpenDataAnalysis.runtimeconfig.json
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\GovernmentOpenDataAnalysis.dll
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\GovernmentOpenDataAnalysis.pdb
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.AssemblyInfoInputs.cache
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.AssemblyInfo.cs
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.dll
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\refint\GovernmentOpenDataAnalysis.dll
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.pdb
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.genruntimeconfig.cache
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\ref\GovernmentOpenDataAnalysis.dll
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\GovernmentOpenDataAnalysis.csproj.AssemblyReference.cache
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\mark9\source\repos\GovernmentOpenDataAnalysis\GovernmentOpenDataAnalysis\obj\Debug\net8.0\Governme.4646E747.Up2Date
