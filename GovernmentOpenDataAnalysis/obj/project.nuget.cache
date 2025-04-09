@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "waDfhRI3i+U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mark9\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
