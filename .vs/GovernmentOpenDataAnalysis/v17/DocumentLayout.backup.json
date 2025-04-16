@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C85766F2-3A78-4762-A206-A41E7D73A6E3}|GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis.csproj|c:\\users\\mark9\\source\\repos\\governmentopendataanalysis\\governmentopendataanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85766F2-3A78-4762-A206-A41E7D73A6E3}|GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis.csproj|solutionrelative:governmentopendataanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85766F2-3A78-4762-A206-A41E7D73A6E3}|GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis.csproj|c:\\users\\mark9\\source\\repos\\governmentopendataanalysis\\governmentopendataanalysis\\data\\echnology-based law enforcement in kaohsiung city.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C85766F2-3A78-4762-A206-A41E7D73A6E3}|GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis.csproj|solutionrelative:governmentopendataanalysis\\data\\echnology-based law enforcement in kaohsiung city.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "echnology-Based Law Enforcement in Kaohsiung City.csv",
+              "DocumentMoniker": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\data\\echnology-Based Law Enforcement in Kaohsiung City.csv",
+              "RelativeDocumentMoniker": "GovernmentOpenDataAnalysis\\data\\echnology-Based Law Enforcement in Kaohsiung City.csv",
+              "ToolTip": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\data\\echnology-Based Law Enforcement in Kaohsiung City.csv",
+              "RelativeToolTip": "GovernmentOpenDataAnalysis\\data\\echnology-Based Law Enforcement in Kaohsiung City.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-16T09:03:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\Program.cs",
               "RelativeDocumentMoniker": "GovernmentOpenDataAnalysis\\Program.cs",
-              "ToolTip": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\Program.cs",
-              "RelativeToolTip": "GovernmentOpenDataAnalysis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mark9\\source\\repos\\GovernmentOpenDataAnalysis\\GovernmentOpenDataAnalysis\\Program.cs*",
+              "RelativeToolTip": "GovernmentOpenDataAnalysis\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwDAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T09:11:53.9Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GovernmentOpenDataAnalysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec25d8618c258b39731b5de9d8f3a0dbe96de76")]
 [assembly: System.Reflection.AssemblyProductAttribute("GovernmentOpenDataAnalysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GovernmentOpenDataAnalysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
